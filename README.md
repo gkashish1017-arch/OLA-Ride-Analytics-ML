@@ -40,11 +40,11 @@ This project analyzes OLA ride-booking data to:
 
 ### 🔍 Booking Status Distribution
 
-![Booking Status Distribution](ola_ride_analytics_ml/01_Booking_Status_Distribution.png)
+"C:\Users\gdhru\Downloads\kashish\PROJECTS\OLA-Ride-Analytics-ML\screenshots\01_Booking_Status_Distribution.png"
 
 ### 📊 EDA Summary
 
-![EDA Summary](ola_ride_analytics_ml/02_EDA_Summary.png)
+"C:\Users\gdhru\Downloads\kashish\PROJECTS\OLA-Ride-Analytics-ML\screenshots\02_EDA_Summary.png")
 
 ### 🤖 Model Comparison
 
