@@ -36,27 +36,27 @@ This project analyzes OLA ride-booking data to:
 
 ---
 
-## 📊 Project Results
+## 📊 Project Results & Visualizations
 
-### 🔍 Data Exploration
+### 🔍 Booking Status Distribution
 
-![Data Exploration](screenshots/01_Data_Exploration.png)
+![Booking Status Distribution](ola_ride_analytics_ml/01_Booking_Status_Distribution.png)
 
-### ⚙️ Feature Engineering
+### 📊 EDA Summary
 
-![Feature Engineering](screenshots/02_Feature_Engineering.png)
+![EDA Summary](ola_ride_analytics_ml/02_EDA_Summary.png)
 
 ### 🤖 Model Comparison
 
-![Model Comparison](screenshots/03_Model_Comparison.png)
+![Model Comparison](ola_ride_analytics_ml/03_Model_Comparison.png)
 
-### 🏆 Final Model Performance
+### 🏆 Confusion Matrix
 
-![Final Model Performance](screenshots/04_Final_Model_Performance.png)
+![Confusion Matrix](ola_ride_analytics_ml/04_Confusion_Matrix.png)
 
-### 💡 Business Insights
+### 💡 Feature Importance
 
-![Business Insights](screenshots/05_Business_Insights.png)
+![Feature Importance](ola_ride_analytics_ml/05_Feature_Importance.png)
 
 ---
 
