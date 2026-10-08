@@ -23,6 +23,43 @@ This project analyzes OLA ride-booking data to:
 
 ---
 
+## ⭐ Project Highlights
+
+* Built a multi-class machine learning classification system to predict OLA ride booking outcomes.
+* Analyzed **150,000+ ride-booking records** and engineered temporal, behavioral, and categorical features.
+* Developed a feature set containing **377 engineered features** for model training.
+* Compared multiple classification approaches including Random Forest, Balanced Random Forest, SGD Logistic Regression, and tuned ensemble models.
+* Addressed **class imbalance** using a Balanced Random Forest approach.
+* Achieved **58.05% accuracy**, **0.5103 Macro F1-score**, and **49.72% balanced accuracy** with the final selected model.
+* Evaluated model performance using accuracy, Macro F1, balanced accuracy, classification reports, and confusion matrices.
+* Generated business-oriented insights to identify factors associated with successful and unsuccessful ride bookings.
+
+---
+
+## 📊 Project Results
+
+### 🔍 Data Exploration
+
+![Data Exploration](screenshots/01_Data_Exploration.png)
+
+### ⚙️ Feature Engineering
+
+![Feature Engineering](screenshots/02_Feature_Engineering.png)
+
+### 🤖 Model Comparison
+
+![Model Comparison](screenshots/03_Model_Comparison.png)
+
+### 🏆 Final Model Performance
+
+![Final Model Performance](screenshots/04_Final_Model_Performance.png)
+
+### 💡 Business Insights
+
+![Business Insights](screenshots/05_Business_Insights.png)
+
+---
+
 ## 🎯 Business Problem
 
 The objective is to predict the **booking status** of an OLA ride using historical booking information.
