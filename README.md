@@ -40,23 +40,23 @@ This project analyzes OLA ride-booking data to:
 
 ### 🔍 Booking Status Distribution
 
-"C:\Users\gdhru\Downloads\kashish\PROJECTS\OLA-Ride-Analytics-ML\screenshots\01_Booking_Status_Distribution.png"
+![Booking Status Distribution](01_Booking_Status_Distribution.png)
 
 ### 📊 EDA Summary
 
-"C:\Users\gdhru\Downloads\kashish\PROJECTS\OLA-Ride-Analytics-ML\screenshots\02_EDA_Summary.png")
+![EDA Summary](02_EDA_Summary.png)
 
 ### 🤖 Model Comparison
 
-![Model Comparison](ola_ride_analytics_ml/03_Model_Comparison.png)
+![Model Comparison](03_Model_Comparison.png)
 
 ### 🏆 Confusion Matrix
 
-![Confusion Matrix](ola_ride_analytics_ml/04_Confusion_Matrix.png)
+![Confusion Matrix](04_Confusion_Matrix.png)
 
 ### 💡 Feature Importance
 
-![Feature Importance](ola_ride_analytics_ml/05_Feature_Importance.png)
+![Feature Importance](05_Feature_Importance.png)
 
 ---
 
