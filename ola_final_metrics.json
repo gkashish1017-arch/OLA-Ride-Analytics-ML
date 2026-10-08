@@ -1,0 +1,6 @@
+{
+    "Model": "Balanced Random Forest",
+    "Accuracy": 0.5805,
+    "Macro F1": 0.510295709664579,
+    "Balanced Accuracy": 0.4972358764294248
+}
